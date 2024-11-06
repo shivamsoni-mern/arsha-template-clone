@@ -1,0 +1,49 @@
+ @media only screen and (max-width:768px) 
+ {
+   .brand-logo{
+	   flex-wrap:wrap;
+   }
+   .brand-logo div{
+	   width:50%;
+	   text-align:center;
+   }
+   .about-sm{
+	   width:50%;
+   }
+   .team-img-heading{
+	   margin-left:-81px;
+   }
+   .team-img-para{
+	   margin-left:-81px;
+   }
+   .team-image-para-1{
+	   margin-left:-81px;
+   }
+   .contact-col-1{
+	   width:100%;
+   }
+   .contact-col-2{
+	   width:100%;
+   }
+   .contact-icon{
+	   margin-top: 33px;
+   }
+	.contact-icon-box-1{
+	width:40%;
+}
+	.contact-icon-box-2{
+	width:60%;
+}
+.col-1{
+	width:100%;
+}
+.col-2{
+	width:100%;
+}
+ }
+ 
+ 
+ 
+ 
+ 
+ 
